@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    font-family: Poppins,sans-serif;
+}
+h1{
+    font-size: 40px;
+
+}
+h2{
+    font-size: 40px;
+    color: #707070;
+}
+.name{
+    color: #ec4c7a;
+}
+.half-width p{
+    line-height: 20px;
+    
+}
+.half-width{
+    color: #707070;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    }
+.half-width img{
+    width: 100%;
+    float: left;
+    
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+
+.latest{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat; 
+    margin-right: 3%;
+}
+
+.btn{
+    text-decoration: none;
+    background-color: #ec4c7a;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #ffffff;
+    line-height: 60px;
+    
+}
+.work{
+    width: 28%;
+    float: left;
+    margin-left: 5%;
+}
+section{
+    height: 470px;
+}
+h3{
+    font-size: 40px;
+    color: #707070;
+  
+}
+.latest img{
+    height: 300px;
+
+}
+h5{
+    color: gray;
+}
+blockquote{
+    font-family: monospace;
+}
+   
+    
+.btn2{
+   
+       
+        background-color: #ec4c7a;
+        border-radius: 5px;
+        padding: 20px 10px;
+        color: #ffffff;
+        width: 50%;
+        margin-top: 35px;
+        
+        
+
+}
+.btn2 a{
+    text-decoration: none;
+    color: #ffffff;
+
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
+.love{
+    text-align: center;
+}
+.footer{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat; 
+
+
+}
+.reason{
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+.footer img{
+    height: 15px;
+    width: 10PX;
+}
